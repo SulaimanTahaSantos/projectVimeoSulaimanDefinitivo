@@ -4,4 +4,4 @@
 $primary: #3498db;
 
 // Importa Bootstrap desde node_modules
-@import "bootstrap/scss/bootstrap";
+@use "bootstrap/scss/bootstrap" as bootstrap;
